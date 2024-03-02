@@ -1,6 +1,6 @@
 # Candy Machine NFT Project
 
-This is a project by Mohd Framan and i have followed the quicknode docs for creating this project
+
 Welcome to the Candy Machine NFT Project README. This project is a combination of various components that enable you to generate NFTs, create a frontend using `candy-machine-ui`, and implement a money molder using the `spl-token` library to create your own tokens, which are then configured within Sugar.
 
 ## Table of Contents
